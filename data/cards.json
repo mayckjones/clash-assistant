@@ -1,0 +1,1374 @@
+[
+  {
+    "id": "morteiro",
+    "name": "Morteiro",
+    "aliases": [
+      "morteiro"
+    ],
+    "elixir": 4,
+    "rarity": "comum",
+    "image": "assets/cards/Morteiro.png"
+  },
+  {
+    "id": "patifes",
+    "name": "Patifes",
+    "aliases": [
+      "patifes"
+    ],
+    "elixir": 5,
+    "rarity": "comum",
+    "image": "assets/cards/Patifes.png"
+  },
+  {
+    "id": "espirito_eletrico",
+    "name": "Espírito Elétrico",
+    "aliases": [
+      "espírito elétrico",
+      "espirito eletrico",
+      "espirito",
+      "eletrico"
+    ],
+    "elixir": 1,
+    "rarity": "comum",
+    "image": "assets/cards/Espírito Elétrico.png"
+  },
+  {
+    "id": "esqueletos",
+    "name": "Esqueletos",
+    "aliases": [
+      "esqueletos"
+    ],
+    "elixir": 1,
+    "rarity": "comum",
+    "image": "assets/cards/Esqueletos.png"
+  },
+  {
+    "id": "flechas",
+    "name": "Flechas",
+    "aliases": [
+      "flechas"
+    ],
+    "elixir": 3,
+    "rarity": "comum",
+    "image": "assets/cards/Flechas.png"
+  },
+  {
+    "id": "gangue_de_goblins",
+    "name": "Gangue de Goblins",
+    "aliases": [
+      "gangue de goblins",
+      "gangue",
+      "goblins"
+    ],
+    "elixir": 3,
+    "rarity": "comum",
+    "image": "assets/cards/Gangue de Goblins.png"
+  },
+  {
+    "id": "gigante_real",
+    "name": "Gigante Real",
+    "aliases": [
+      "gigante real",
+      "gigante",
+      "real"
+    ],
+    "elixir": 6,
+    "rarity": "comum",
+    "image": "assets/cards/Gigante Real.png"
+  },
+  {
+    "id": "goblins_lanceiros",
+    "name": "Goblins Lanceiros",
+    "aliases": [
+      "goblins lanceiros",
+      "goblins",
+      "lanceiros"
+    ],
+    "elixir": 2,
+    "rarity": "comum",
+    "image": "assets/cards/Goblins Lanceiros.png"
+  },
+  {
+    "id": "goblins",
+    "name": "Goblins",
+    "aliases": [
+      "goblins"
+    ],
+    "elixir": 2,
+    "rarity": "comum",
+    "image": "assets/cards/Goblins.png"
+  },
+  {
+    "id": "berserker",
+    "name": "Berserker",
+    "aliases": [
+      "berserker"
+    ],
+    "elixir": 2,
+    "rarity": "comum",
+    "image": "assets/cards/Berserker.png"
+  },
+  {
+    "id": "bola_de_neve",
+    "name": "Bola de Neve",
+    "aliases": [
+      "bola de neve",
+      "bola",
+      "neve"
+    ],
+    "elixir": 2,
+    "rarity": "comum",
+    "image": "assets/cards/Bola de Neve.png"
+  },
+  {
+    "id": "bombardeiro",
+    "name": "Bombardeiro",
+    "aliases": [
+      "bombardeiro"
+    ],
+    "elixir": 2,
+    "rarity": "comum",
+    "image": "assets/cards/Bombardeiro.png"
+  },
+  {
+    "id": "canhao",
+    "name": "Canhão",
+    "aliases": [
+      "canhão",
+      "canhao"
+    ],
+    "elixir": 3,
+    "rarity": "comum",
+    "image": "assets/cards/Canhão.png"
+  },
+  {
+    "id": "cavaleiro",
+    "name": "Cavaleiro",
+    "aliases": [
+      "cavaleiro"
+    ],
+    "elixir": 3,
+    "rarity": "comum",
+    "image": "assets/cards/Cavaleiro.png"
+  },
+  {
+    "id": "dragoes_esqueleto",
+    "name": "Dragões Esqueleto",
+    "aliases": [
+      "dragões esqueleto",
+      "dragoes esqueleto",
+      "dragoes",
+      "esqueleto"
+    ],
+    "elixir": 4,
+    "rarity": "comum",
+    "image": "assets/cards/Dragões Esqueleto.png"
+  },
+  {
+    "id": "encomenda_real",
+    "name": "Encomenda Real",
+    "aliases": [
+      "encomenda real",
+      "encomenda",
+      "real"
+    ],
+    "elixir": 3,
+    "rarity": "comum",
+    "image": "assets/cards/Encomenda Real.png"
+  },
+  {
+    "id": "espirito_de_fogo",
+    "name": "Espírito de Fogo",
+    "aliases": [
+      "espírito de fogo",
+      "espirito de fogo",
+      "espirito",
+      "fogo"
+    ],
+    "elixir": 1,
+    "rarity": "comum",
+    "image": "assets/cards/Espírito de Fogo.png"
+  },
+  {
+    "id": "espirito_de_gelo",
+    "name": "Espírito de Gelo",
+    "aliases": [
+      "espírito de gelo",
+      "espirito de gelo",
+      "espirito",
+      "gelo"
+    ],
+    "elixir": 1,
+    "rarity": "comum",
+    "image": "assets/cards/Espírito de Gelo.png"
+  },
+  {
+    "id": "pirotecnica",
+    "name": "Pirotécnica",
+    "aliases": [
+      "pirotécnica",
+      "pirotecnica"
+    ],
+    "elixir": 3,
+    "rarity": "comum",
+    "image": "assets/cards/Pirotécnica.png"
+  },
+  {
+    "id": "recrutas_reais",
+    "name": "Recrutas Reais",
+    "aliases": [
+      "recrutas reais",
+      "recrutas",
+      "reais"
+    ],
+    "elixir": 7,
+    "rarity": "comum",
+    "image": "assets/cards/Recrutas Reais.png"
+  },
+  {
+    "id": "servos",
+    "name": "Servos",
+    "aliases": [
+      "servos"
+    ],
+    "elixir": 3,
+    "rarity": "comum",
+    "image": "assets/cards/Servos.png"
+  },
+  {
+    "id": "tesla",
+    "name": "Tesla",
+    "aliases": [
+      "tesla"
+    ],
+    "elixir": 4,
+    "rarity": "comum",
+    "image": "assets/cards/Tesla.png"
+  },
+  {
+    "id": "zap",
+    "name": "Zap",
+    "aliases": [
+      "zap"
+    ],
+    "elixir": 2,
+    "rarity": "comum",
+    "image": "assets/cards/Zap.png"
+  },
+  {
+    "id": "arqueiras",
+    "name": "Arqueiras",
+    "aliases": [
+      "arqueiras"
+    ],
+    "elixir": 3,
+    "rarity": "comum",
+    "image": "assets/cards/Arqueiras.png"
+  },
+  {
+    "id": "barbaro_de_elite",
+    "name": "Bárbaro de Elite",
+    "aliases": [
+      "bárbaro de elite",
+      "barbaro de elite",
+      "barbaro",
+      "elite"
+    ],
+    "elixir": 6,
+    "rarity": "comum",
+    "image": "assets/cards/Bárbaro de Elite.png"
+  },
+  {
+    "id": "barbaros",
+    "name": "Bárbaros",
+    "aliases": [
+      "bárbaros",
+      "barbaros"
+    ],
+    "elixir": 5,
+    "rarity": "comum",
+    "image": "assets/cards/Bárbaros.png"
+  },
+  {
+    "id": "barril_de_esqueletos",
+    "name": "Barril de Esqueletos",
+    "aliases": [
+      "barril de esqueletos",
+      "barril",
+      "esqueletos"
+    ],
+    "elixir": 3,
+    "rarity": "comum",
+    "image": "assets/cards/Barril de Esqueletos.png"
+  },
+  {
+    "id": "horda_de_servos",
+    "name": "Horda de Servos",
+    "aliases": [
+      "horda de servos",
+      "horda",
+      "servos"
+    ],
+    "elixir": 5,
+    "rarity": "comum",
+    "image": "assets/cards/Horda de Servos.png"
+  },
+  {
+    "id": "morcegos",
+    "name": "Morcegos",
+    "aliases": [
+      "morcegos"
+    ],
+    "elixir": 2,
+    "rarity": "comum",
+    "image": "assets/cards/Morcegos.png"
+  },
+  {
+    "id": "mago",
+    "name": "Mago",
+    "aliases": [
+      "mago"
+    ],
+    "elixir": 5,
+    "rarity": "rara",
+    "image": "assets/cards/Mago.png"
+  },
+  {
+    "id": "maquina_voadora",
+    "name": "Máquina Voadora",
+    "aliases": [
+      "máquina voadora",
+      "maquina voadora",
+      "maquina",
+      "voadora"
+    ],
+    "elixir": 4,
+    "rarity": "rara",
+    "image": "assets/cards/Máquina Voadora.png"
+  },
+  {
+    "id": "mosqueteira",
+    "name": "Mosqueteira",
+    "aliases": [
+      "mosqueteira"
+    ],
+    "elixir": 4,
+    "rarity": "rara",
+    "image": "assets/cards/Mosqueteira.png"
+  },
+  {
+    "id": "porcos_reais",
+    "name": "Porcos Reais",
+    "aliases": [
+      "porcos reais",
+      "porcos",
+      "reais"
+    ],
+    "elixir": 5,
+    "rarity": "rara",
+    "image": "assets/cards/Porcos Reais.png"
+  },
+  {
+    "id": "terremoto",
+    "name": "Terremoto",
+    "aliases": [
+      "terremoto"
+    ],
+    "elixir": 3,
+    "rarity": "rara",
+    "image": "assets/cards/Terremoto.png"
+  },
+  {
+    "id": "torre_de_bombas",
+    "name": "Torre de Bombas",
+    "aliases": [
+      "torre de bombas",
+      "torre",
+      "bombas"
+    ],
+    "elixir": 4,
+    "rarity": "rara",
+    "image": "assets/cards/Torre de Bombas.png"
+  },
+  {
+    "id": "torre_inferno",
+    "name": "Torre Inferno",
+    "aliases": [
+      "torre inferno",
+      "torre",
+      "inferno"
+    ],
+    "elixir": 5,
+    "rarity": "rara",
+    "image": "assets/cards/Torre Inferno.png"
+  },
+  {
+    "id": "tres_mosqueteiras",
+    "name": "Três Mosqueteiras",
+    "aliases": [
+      "três mosqueteiras",
+      "tres mosqueteiras",
+      "tres",
+      "mosqueteiras"
+    ],
+    "elixir": 9,
+    "rarity": "rara",
+    "image": "assets/cards/Três Mosqueteiras.png"
+  },
+  {
+    "id": "valquiria",
+    "name": "Valquíria",
+    "aliases": [
+      "valquíria",
+      "valquiria"
+    ],
+    "elixir": 4,
+    "rarity": "rara",
+    "image": "assets/cards/Valquíria.png"
+  },
+  {
+    "id": "fornalha",
+    "name": "Fornalha",
+    "aliases": [
+      "fornalha"
+    ],
+    "elixir": 4,
+    "rarity": "rara",
+    "image": "assets/cards/Fornalha.png"
+  },
+  {
+    "id": "gigante",
+    "name": "Gigante",
+    "aliases": [
+      "gigante"
+    ],
+    "elixir": 5,
+    "rarity": "rara",
+    "image": "assets/cards/Gigante.png"
+  },
+  {
+    "id": "jaula_de_goblin",
+    "name": "Jaula de Goblin",
+    "aliases": [
+      "jaula de goblin",
+      "jaula",
+      "goblin"
+    ],
+    "elixir": 4,
+    "rarity": "rara",
+    "image": "assets/cards/Jaula de Goblin.png"
+  },
+  {
+    "id": "golem_de_gelo",
+    "name": "Golem de Gelo",
+    "aliases": [
+      "golem de gelo",
+      "golem",
+      "gelo"
+    ],
+    "elixir": 2,
+    "rarity": "rara",
+    "image": "assets/cards/Golem de Gelo.png"
+  },
+  {
+    "id": "golem_de_elixir",
+    "name": "Golem de Elixir",
+    "aliases": [
+      "golem de elixir",
+      "golem",
+      "elixir"
+    ],
+    "elixir": 3,
+    "rarity": "rara",
+    "image": "assets/cards/Golem de Elixir.png"
+  },
+  {
+    "id": "goblin_demolidor",
+    "name": "Goblin Demolidor",
+    "aliases": [
+      "goblin demolidor",
+      "goblin",
+      "demolidor"
+    ],
+    "elixir": 3,
+    "rarity": "rara",
+    "image": "assets/cards/Goblin Demolidor.png"
+  },
+  {
+    "id": "goblin_com_dardo",
+    "name": "Goblin com Dardo",
+    "aliases": [
+      "goblin com dardo",
+      "goblin",
+      "dardo"
+    ],
+    "elixir": 3,
+    "rarity": "rara",
+    "image": "assets/cards/Goblin com Dardo.png"
+  },
+  {
+    "id": "foguete",
+    "name": "Foguete",
+    "aliases": [
+      "foguete"
+    ],
+    "elixir": 6,
+    "rarity": "rara",
+    "image": "assets/cards/Foguete.png"
+  },
+  {
+    "id": "espirito_curador",
+    "name": "Espírito Curador",
+    "aliases": [
+      "espírito curador",
+      "espirito curador",
+      "espirito",
+      "curador"
+    ],
+    "elixir": 1,
+    "rarity": "rara",
+    "image": "assets/cards/Espírito Curador.png"
+  },
+  {
+    "id": "arbusto_traicoeiro",
+    "name": "Arbusto Traiçoeiro",
+    "aliases": [
+      "arbusto traiçoeiro",
+      "arbusto traicoeiro",
+      "arbusto",
+      "traicoeiro"
+    ],
+    "elixir": 2,
+    "rarity": "rara",
+    "image": "assets/cards/Arbusto Traiçoeiro.png"
+  },
+  {
+    "id": "ariete_de_batalha",
+    "name": "Ariete de Batalha",
+    "aliases": [
+      "ariete de batalha",
+      "ariete",
+      "batalha"
+    ],
+    "elixir": 4,
+    "rarity": "rara",
+    "image": "assets/cards/Ariete de Batalha.png"
+  },
+  {
+    "id": "bola_de_fogo",
+    "name": "Bola de Fogo",
+    "aliases": [
+      "bola de fogo",
+      "bola",
+      "fogo"
+    ],
+    "elixir": 4,
+    "rarity": "rara",
+    "image": "assets/cards/Bola de Fogo.png"
+  },
+  {
+    "id": "cabana_de_barbaros",
+    "name": "Cabana de Bárbaros",
+    "aliases": [
+      "cabana de bárbaros",
+      "cabana de barbaros",
+      "cabana",
+      "barbaros"
+    ],
+    "elixir": 6,
+    "rarity": "rara",
+    "image": "assets/cards/Cabana de Bárbaros.png"
+  },
+  {
+    "id": "cabana_de_goblins",
+    "name": "Cabana de Goblins",
+    "aliases": [
+      "cabana de goblins",
+      "cabana",
+      "goblins"
+    ],
+    "elixir": 5,
+    "rarity": "rara",
+    "image": "assets/cards/Cabana de Goblins.png"
+  },
+  {
+    "id": "coletor_de_elixir",
+    "name": "Coletor de Elixir",
+    "aliases": [
+      "coletor de elixir",
+      "coletor",
+      "elixir"
+    ],
+    "elixir": 6,
+    "rarity": "rara",
+    "image": "assets/cards/Coletor de Elixir.png"
+  },
+  {
+    "id": "corredor",
+    "name": "Corredor",
+    "aliases": [
+      "corredor"
+    ],
+    "elixir": 4,
+    "rarity": "rara",
+    "image": "assets/cards/Corredor.png"
+  },
+  {
+    "id": "curadora_guerreira",
+    "name": "Curadora Guerreira",
+    "aliases": [
+      "curadora guerreira",
+      "curadora",
+      "guerreira"
+    ],
+    "elixir": 4,
+    "rarity": "rara",
+    "image": "assets/cards/Curadora Guerreira.png"
+  },
+  {
+    "id": "eletrocutadores",
+    "name": "Eletrocutadores",
+    "aliases": [
+      "eletrocutadores"
+    ],
+    "elixir": 4,
+    "rarity": "rara",
+    "image": "assets/cards/Eletrocutadores.png"
+  },
+  {
+    "id": "lapide",
+    "name": "Lápide",
+    "aliases": [
+      "lápide",
+      "lapide"
+    ],
+    "elixir": 3,
+    "rarity": "rara",
+    "image": "assets/cards/Lápide.png"
+  },
+  {
+    "id": "mini_p_e_k_k_a",
+    "name": "Mini P.E.K.K.A",
+    "aliases": [
+      "mini p.e.k.k.a",
+      "mini",
+      "p.e.k.k.a"
+    ],
+    "elixir": 4,
+    "rarity": "rara",
+    "image": "assets/cards/Mini P.E.K.K.A.png"
+  },
+  {
+    "id": "megasservo",
+    "name": "Megasservo",
+    "aliases": [
+      "megasservo"
+    ],
+    "elixir": 3,
+    "rarity": "rara",
+    "image": "assets/cards/Megasservo.png"
+  },
+  {
+    "id": "goblin_gigante",
+    "name": "Goblin Gigante",
+    "aliases": [
+      "goblin gigante",
+      "goblin",
+      "gigante"
+    ],
+    "elixir": 6,
+    "rarity": "épica",
+    "image": "assets/cards/Goblin Gigante.png"
+  },
+  {
+    "id": "golem",
+    "name": "Golem",
+    "aliases": [
+      "golem"
+    ],
+    "elixir": 8,
+    "rarity": "épica",
+    "image": "assets/cards/Golem.png"
+  },
+  {
+    "id": "esqueleto_gigante",
+    "name": "Esqueleto Gigante",
+    "aliases": [
+      "esqueleto gigante",
+      "esqueleto",
+      "gigante"
+    ],
+    "elixir": 6,
+    "rarity": "épica",
+    "image": "assets/cards/Esqueleto Gigante.png"
+  },
+  {
+    "id": "executor",
+    "name": "Executor",
+    "aliases": [
+      "executor"
+    ],
+    "elixir": 5,
+    "rarity": "épica",
+    "image": "assets/cards/Executor.png"
+  },
+  {
+    "id": "exercito_de_esqueletos",
+    "name": "Exército de Esqueletos",
+    "aliases": [
+      "exército de esqueletos",
+      "exercito de esqueletos",
+      "exercito",
+      "esqueletos"
+    ],
+    "elixir": 3,
+    "rarity": "épica",
+    "image": "assets/cards/Exército de Esqueletos.png"
+  },
+  {
+    "id": "furia",
+    "name": "Fúria",
+    "aliases": [
+      "fúria",
+      "furia"
+    ],
+    "elixir": 2,
+    "rarity": "épica",
+    "image": "assets/cards/Fúria.png"
+  },
+  {
+    "id": "gelo",
+    "name": "Gelo",
+    "aliases": [
+      "gelo"
+    ],
+    "elixir": 4,
+    "rarity": "épica",
+    "image": "assets/cards/Gelo.png"
+  },
+  {
+    "id": "gigante_das_runas",
+    "name": "Gigante das Runas",
+    "aliases": [
+      "gigante das runas",
+      "gigante",
+      "runas"
+    ],
+    "elixir": 4,
+    "rarity": "épica",
+    "image": "assets/cards/Gigante das Runas.png"
+  },
+  {
+    "id": "gigante_eletrico",
+    "name": "Gigante Elétrico",
+    "aliases": [
+      "gigante elétrico",
+      "gigante eletrico",
+      "gigante",
+      "eletrico"
+    ],
+    "elixir": 7,
+    "rarity": "épica",
+    "image": "assets/cards/Gigante Elétrico.png"
+  },
+  {
+    "id": "bebe_dragao",
+    "name": "Bebê Dragão",
+    "aliases": [
+      "bebê dragão",
+      "bebe dragao",
+      "bebe",
+      "dragao"
+    ],
+    "elixir": 4,
+    "rarity": "épica",
+    "image": "assets/cards/Bebê Dragão.png"
+  },
+  {
+    "id": "bruxa",
+    "name": "Bruxa",
+    "aliases": [
+      "bruxa"
+    ],
+    "elixir": 5,
+    "rarity": "épica",
+    "image": "assets/cards/Bruxa.png"
+  },
+  {
+    "id": "cacador",
+    "name": "Caçador",
+    "aliases": [
+      "caçador",
+      "cacador"
+    ],
+    "elixir": 4,
+    "rarity": "épica",
+    "image": "assets/cards/Caçador.png"
+  },
+  {
+    "id": "carrinho_de_canhao",
+    "name": "Carrinho de Canhão",
+    "aliases": [
+      "carrinho de canhão",
+      "carrinho de canhao",
+      "carrinho",
+      "canhao"
+    ],
+    "elixir": 5,
+    "rarity": "épica",
+    "image": "assets/cards/Carrinho de Canhão.png"
+  },
+  {
+    "id": "clone",
+    "name": "Clone",
+    "aliases": [
+      "clone"
+    ],
+    "elixir": 3,
+    "rarity": "épica",
+    "image": "assets/cards/Clone.png"
+  },
+  {
+    "id": "destruidores_de_muros",
+    "name": "Destruidores de Muros",
+    "aliases": [
+      "destruidores de muros",
+      "destruidores",
+      "muros"
+    ],
+    "elixir": 3,
+    "rarity": "épica",
+    "image": "assets/cards/Destruidores de Muros.png"
+  },
+  {
+    "id": "dragao_eletrico",
+    "name": "Dragão Elétrico",
+    "aliases": [
+      "dragão elétrico",
+      "dragao eletrico",
+      "dragao",
+      "eletrico"
+    ],
+    "elixir": 5,
+    "rarity": "épica",
+    "image": "assets/cards/Dragão Elétrico.png"
+  },
+  {
+    "id": "escavadeira_de_goblins",
+    "name": "Escavadeira de Goblins",
+    "aliases": [
+      "escavadeira de goblins",
+      "escavadeira",
+      "goblins"
+    ],
+    "elixir": 4,
+    "rarity": "épica",
+    "image": "assets/cards/Escavadeira de Goblins.png"
+  },
+  {
+    "id": "espelho",
+    "name": "Espelho",
+    "aliases": [
+      "espelho"
+    ],
+    "elixir": 1,
+    "rarity": "épica",
+    "image": "assets/cards/Espelho.png"
+  },
+  {
+    "id": "relampago",
+    "name": "Relâmpago",
+    "aliases": [
+      "relâmpago",
+      "relampago"
+    ],
+    "elixir": 6,
+    "rarity": "épica",
+    "image": "assets/cards/Relâmpago.png"
+  },
+  {
+    "id": "tornado",
+    "name": "Tornado",
+    "aliases": [
+      "tornado"
+    ],
+    "elixir": 3,
+    "rarity": "épica",
+    "image": "assets/cards/Tornado.png"
+  },
+  {
+    "id": "vacuo",
+    "name": "Vácuo",
+    "aliases": [
+      "vácuo",
+      "vacuo"
+    ],
+    "elixir": 3,
+    "rarity": "épica",
+    "image": "assets/cards/Vácuo.png"
+  },
+  {
+    "id": "veneno",
+    "name": "Veneno",
+    "aliases": [
+      "veneno"
+    ],
+    "elixir": 4,
+    "rarity": "épica",
+    "image": "assets/cards/Veneno.png"
+  },
+  {
+    "id": "vinhas",
+    "name": "Vinhas",
+    "aliases": [
+      "vinhas"
+    ],
+    "elixir": 3,
+    "rarity": "épica",
+    "image": "assets/cards/Vinhas.png"
+  },
+  {
+    "id": "x_besta",
+    "name": "X-Besta",
+    "aliases": [
+      "x-besta"
+    ],
+    "elixir": 6,
+    "rarity": "épica",
+    "image": "assets/cards/X-Besta.png"
+  },
+  {
+    "id": "balao",
+    "name": "Balão",
+    "aliases": [
+      "balão",
+      "balao"
+    ],
+    "elixir": 5,
+    "rarity": "épica",
+    "image": "assets/cards/Balão.png"
+  },
+  {
+    "id": "barril_de_barbaro",
+    "name": "Barril de Bárbaro",
+    "aliases": [
+      "barril de bárbaro",
+      "barril de barbaro",
+      "barril",
+      "barbaro"
+    ],
+    "elixir": 2,
+    "rarity": "épica",
+    "image": "assets/cards/Barril de Bárbaro.png"
+  },
+  {
+    "id": "barril_de_goblins",
+    "name": "Barril de Goblins",
+    "aliases": [
+      "barril de goblins",
+      "barril",
+      "goblins"
+    ],
+    "elixir": 3,
+    "rarity": "épica",
+    "image": "assets/cards/Barril de Goblins.png"
+  },
+  {
+    "id": "lancador",
+    "name": "Lançador",
+    "aliases": [
+      "lançador",
+      "lancador"
+    ],
+    "elixir": 5,
+    "rarity": "épica",
+    "image": "assets/cards/Lançador.png"
+  },
+  {
+    "id": "maldicao_goblin",
+    "name": "Maldição Goblin",
+    "aliases": [
+      "maldição goblin",
+      "maldicao goblin",
+      "maldicao",
+      "goblin"
+    ],
+    "elixir": 2,
+    "rarity": "épica",
+    "image": "assets/cards/Maldição Goblin.png"
+  },
+  {
+    "id": "p_e_k_k_a",
+    "name": "P.E.K.K.A",
+    "aliases": [
+      "p.e.k.k.a"
+    ],
+    "elixir": 7,
+    "rarity": "épica",
+    "image": "assets/cards/P.E.K.K.A.png"
+  },
+  {
+    "id": "principe_das_trevas",
+    "name": "Príncipe das Trevas",
+    "aliases": [
+      "príncipe das trevas",
+      "principe das trevas",
+      "principe",
+      "trevas"
+    ],
+    "elixir": 4,
+    "rarity": "épica",
+    "image": "assets/cards/Príncipe das Trevas.png"
+  },
+  {
+    "id": "principe",
+    "name": "Príncipe",
+    "aliases": [
+      "príncipe",
+      "principe"
+    ],
+    "elixir": 5,
+    "rarity": "épica",
+    "image": "assets/cards/Príncipe.png"
+  },
+  {
+    "id": "guardas",
+    "name": "Guardas",
+    "aliases": [
+      "guardas"
+    ],
+    "elixir": 3,
+    "rarity": "épica",
+    "image": "assets/cards/Guardas.png"
+  },
+  {
+    "id": "bandida",
+    "name": "Bandida",
+    "aliases": [
+      "bandida"
+    ],
+    "elixir": 3,
+    "rarity": "lendária",
+    "image": "assets/cards/Bandida.png"
+  },
+  {
+    "id": "bruxa_mae",
+    "name": "Bruxa Mãe",
+    "aliases": [
+      "bruxa mãe",
+      "bruxa mae",
+      "bruxa"
+    ],
+    "elixir": 4,
+    "rarity": "lendária",
+    "image": "assets/cards/Bruxa Mãe.png"
+  },
+  {
+    "id": "bruxa_sombria",
+    "name": "Bruxa Sombria",
+    "aliases": [
+      "bruxa sombria",
+      "bruxa",
+      "sombria"
+    ],
+    "elixir": 4,
+    "rarity": "lendária",
+    "image": "assets/cards/Bruxa Sombria.png"
+  },
+  {
+    "id": "mago_eletrico",
+    "name": "Mago Elétrico",
+    "aliases": [
+      "mago elétrico",
+      "mago eletrico",
+      "mago",
+      "eletrico"
+    ],
+    "elixir": 4,
+    "rarity": "lendária",
+    "image": "assets/cards/Mago Elétrico.png"
+  },
+  {
+    "id": "maquina_goblin",
+    "name": "Máquina Goblin",
+    "aliases": [
+      "máquina goblin",
+      "maquina goblin",
+      "maquina",
+      "goblin"
+    ],
+    "elixir": 5,
+    "rarity": "lendária",
+    "image": "assets/cards/Máquina Goblin.png"
+  },
+  {
+    "id": "megacavaleiro",
+    "name": "Megacavaleiro",
+    "aliases": [
+      "megacavaleiro"
+    ],
+    "elixir": 7,
+    "rarity": "lendária",
+    "image": "assets/cards/Megacavaleiro.png"
+  },
+  {
+    "id": "o_tronco",
+    "name": "O Tronco",
+    "aliases": [
+      "o tronco",
+      "tronco"
+    ],
+    "elixir": 2,
+    "rarity": "lendária",
+    "image": "assets/cards/O Tronco.png"
+  },
+  {
+    "id": "mineiro",
+    "name": "Mineiro",
+    "aliases": [
+      "mineiro"
+    ],
+    "elixir": 3,
+    "rarity": "lendária",
+    "image": "assets/cards/Mineiro.png"
+  },
+  {
+    "id": "mago_de_gelo",
+    "name": "Mago de Gelo",
+    "aliases": [
+      "mago de gelo",
+      "mago",
+      "gelo"
+    ],
+    "elixir": 3,
+    "rarity": "lendária",
+    "image": "assets/cards/Mago de Gelo.png"
+  },
+  {
+    "id": "arqueiro_magico",
+    "name": "Arqueiro Mágico",
+    "aliases": [
+      "arqueiro mágico",
+      "arqueiro magico",
+      "arqueiro",
+      "magico"
+    ],
+    "elixir": 4,
+    "rarity": "lendária",
+    "image": "assets/cards/Arqueiro Mágico.png"
+  },
+  {
+    "id": "cemiterio",
+    "name": "Cemitério",
+    "aliases": [
+      "cemitério",
+      "cemiterio"
+    ],
+    "elixir": 5,
+    "rarity": "lendária",
+    "image": "assets/cards/Cemitério.png"
+  },
+  {
+    "id": "domadora_de_carneiro",
+    "name": "Domadora de Carneiro",
+    "aliases": [
+      "domadora de carneiro",
+      "domadora",
+      "carneiro"
+    ],
+    "elixir": 5,
+    "rarity": "lendária",
+    "image": "assets/cards/Domadora de Carneiro.png"
+  },
+  {
+    "id": "dragao_infernal",
+    "name": "Dragão Infernal",
+    "aliases": [
+      "dragão infernal",
+      "dragao infernal",
+      "dragao",
+      "infernal"
+    ],
+    "elixir": 4,
+    "rarity": "lendária",
+    "image": "assets/cards/Dragão Infernal.png"
+  },
+  {
+    "id": "fantasma_real",
+    "name": "Fantasma Real",
+    "aliases": [
+      "fantasma real",
+      "fantasma",
+      "real"
+    ],
+    "elixir": 3,
+    "rarity": "lendária",
+    "image": "assets/cards/Fantasma Real.png"
+  },
+  {
+    "id": "fenix",
+    "name": "Fênix",
+    "aliases": [
+      "fênix",
+      "fenix"
+    ],
+    "elixir": 4,
+    "rarity": "lendária",
+    "image": "assets/cards/Fênix.png"
+  },
+  {
+    "id": "imperatriz_espiritual",
+    "name": "Imperatriz Espiritual",
+    "aliases": [
+      "imperatriz espiritual",
+      "imperatriz",
+      "espiritual"
+    ],
+    "elixir": 3,
+    "rarity": "lendária",
+    "image": "assets/cards/Imperatriz Espiritual.png"
+  },
+  {
+    "id": "lava_hound",
+    "name": "Lava Hound",
+    "aliases": [
+      "lava hound",
+      "lava",
+      "hound"
+    ],
+    "elixir": 7,
+    "rarity": "lendária",
+    "image": "assets/cards/Lava Hound.png"
+  },
+  {
+    "id": "lenhador",
+    "name": "Lenhador",
+    "aliases": [
+      "lenhador"
+    ],
+    "elixir": 4,
+    "rarity": "lendária",
+    "image": "assets/cards/Lenhador.png"
+  },
+  {
+    "id": "princesa",
+    "name": "Princesa",
+    "aliases": [
+      "princesa"
+    ],
+    "elixir": 3,
+    "rarity": "lendária",
+    "image": "assets/cards/Princesa.png"
+  },
+  {
+    "id": "sparky",
+    "name": "Sparky",
+    "aliases": [
+      "sparky"
+    ],
+    "elixir": 6,
+    "rarity": "lendária",
+    "image": "assets/cards/Sparky.png"
+  },
+  {
+    "id": "pescador",
+    "name": "Pescador",
+    "aliases": [
+      "pescador"
+    ],
+    "elixir": 3,
+    "rarity": "lendária",
+    "image": "assets/cards/Pescador.png"
+  },
+  {
+    "id": "bandida_lider",
+    "name": "Bandida-líder",
+    "aliases": [
+      "bandida-líder",
+      "bandida-lider"
+    ],
+    "elixir": 4,
+    "rarity": "campeão",
+    "image": "assets/cards/Bandida-líder.png"
+  },
+  {
+    "id": "monge",
+    "name": "Monge",
+    "aliases": [
+      "monge"
+    ],
+    "elixir": 5,
+    "rarity": "campeão",
+    "image": "assets/cards/Monge.png"
+  },
+  {
+    "id": "pequeno_principe",
+    "name": "Pequeno Príncipe",
+    "aliases": [
+      "pequeno príncipe",
+      "pequeno principe",
+      "pequeno",
+      "principe"
+    ],
+    "elixir": 3,
+    "rarity": "campeão",
+    "image": "assets/cards/Pequeno Príncipe.png"
+  },
+  {
+    "id": "rainha_arqueira",
+    "name": "Rainha Arqueira",
+    "aliases": [
+      "rainha arqueira",
+      "rainha",
+      "arqueira"
+    ],
+    "elixir": 5,
+    "rarity": "campeão",
+    "image": "assets/cards/Rainha Arqueira.png"
+  },
+  {
+    "id": "rei_esqueleto",
+    "name": "Rei Esqueleto",
+    "aliases": [
+      "rei esqueleto",
+      "esqueleto"
+    ],
+    "elixir": 4,
+    "rarity": "campeão",
+    "image": "assets/cards/Rei Esqueleto.png"
+  },
+  {
+    "id": "cavaleiro_dourado",
+    "name": "Cavaleiro Dourado",
+    "aliases": [
+      "cavaleiro dourado",
+      "cavaleiro",
+      "dourado"
+    ],
+    "elixir": 4,
+    "rarity": "campeão",
+    "image": "assets/cards/Cavaleiro Dourado.png"
+  },
+  {
+    "id": "mineiro_bombado",
+    "name": "Mineiro Bombado",
+    "aliases": [
+      "mineiro bombado",
+      "mineiro",
+      "bombado"
+    ],
+    "elixir": 4,
+    "rarity": "campeão",
+    "image": "assets/cards/Mineiro Bombado.png"
+  },
+  {
+    "id": "goblinstein",
+    "name": "Goblinstein",
+    "aliases": [
+      "goblinstein"
+    ],
+    "elixir": 4,
+    "rarity": "campeão",
+    "image": "assets/cards/Goblinstein.png"
+  }
+]
